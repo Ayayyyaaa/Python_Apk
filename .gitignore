@@ -1,0 +1,13 @@
+# Build
+*/build
+/build
+build
+
+# IDE
+.idea
+
+# Autres fichiers courants à ignorer (optionnel mais recommandé)
+__pycache__/
+*.pyc
+.vscode/
+*.egg-info/
